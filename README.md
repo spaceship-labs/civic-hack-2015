@@ -30,3 +30,24 @@ http://www.mejoratuescuela.org/api/escuelas
 
 
 ---Transparencia Focalizada---
+
+## Equipos
+
+https://github.com/cesaringo/datos.org Cesar Serano Ruiz
+
+https://github.com/juanpabloprado/diputados-web-scraper	juan pablo prado
+https://github.com/juanpabloprado/diputados-android
+
+https://github.com/israelcanul/civichack			israel canul
+
+https://github.com/basp91/quehacentusdiputados		izeth irving betriz
+
+https://github.com/yopolopo/aqui				pablo, jaime
+
+https://github.com/danie2910/mattt900			daniel reyes
+
+https://github.com/civichackmol/Mipuntodevista		hans cruz
+
+https://github.com/politeam/silparser			Omar Bermudes, Uicab Luis, Juan Tugorez
+https://github.com/politeam/politeamapi
+
